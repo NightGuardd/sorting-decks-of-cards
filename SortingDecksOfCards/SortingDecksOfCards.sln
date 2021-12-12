@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingDecksOfCards", "SortingDecksOfCards\SortingDecksOfCards.csproj", "{D22E318E-5E16-4A2B-A777-19129DE22C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22E318E-5E16-4A2B-A777-19129DE22C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22E318E-5E16-4A2B-A777-19129DE22C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22E318E-5E16-4A2B-A777-19129DE22C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22E318E-5E16-4A2B-A777-19129DE22C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
