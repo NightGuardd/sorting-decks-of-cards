@@ -1,26 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace SortingDecksOfCards
 {
     public class DeckOfCardsOperations
     {
-        private readonly List<Card> cards = new List<Card>(52);
         private readonly Dictionary<string, List<Card>> dictionaryOfDecks = new Dictionary<string, List<Card>>();
 
         public void DeckOfCards (string nameOfDeck)
         {
-            foreach (var suitName in Enum.GetNames(typeof(Suit)))
-            {
-                foreach (var cardNumber in Enum.GetNames(typeof(CardNumber)))
+            var cards = new List<Card>(52);
+            cards.AddRange(from suitName in Enum.GetNames(typeof(Suit)) 
+                from cardNumber in Enum.GetNames(typeof(CardNumber)) 
+                select new Card
                 {
-                    cards.Add(new Card
-                    {
-                        Suit = suitName,
-                        CardNumber = cardNumber
-                    });
-                }
-            }
+                    Suit = suitName, 
+                    CardNumber = cardNumber
+                });
             dictionaryOfDecks.Add(nameOfDeck, cards);
         }
 

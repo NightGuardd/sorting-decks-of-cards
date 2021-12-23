@@ -4,3 +4,9 @@ C:\Users\Максим\RiderProjects\SortingDecksOfCards\SortingDecksOfCards\bin\
 C:\Users\Максим\RiderProjects\SortingDecksOfCards\SortingDecksOfCards\bin\Debug\SortingDecksOfCards.pdb
 C:\Users\Максим\RiderProjects\SortingDecksOfCards\SortingDecksOfCards\obj\Debug\SortingDecksOfCards.exe
 C:\Users\Максим\RiderProjects\SortingDecksOfCards\SortingDecksOfCards\obj\Debug\SortingDecksOfCards.pdb
+C:\Users\Максим\Desktop\sorting-decks-of-cards\SortingDecksOfCards\SortingDecksOfCards\bin\Debug\SortingDecksOfCards.exe
+C:\Users\Максим\Desktop\sorting-decks-of-cards\SortingDecksOfCards\SortingDecksOfCards\bin\Debug\SortingDecksOfCards.pdb
+C:\Users\Максим\Desktop\sorting-decks-of-cards\SortingDecksOfCards\SortingDecksOfCards\obj\Debug\SortingDecksOfCards.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\sorting-decks-of-cards\SortingDecksOfCards\SortingDecksOfCards\obj\Debug\SortingDecksOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\sorting-decks-of-cards\SortingDecksOfCards\SortingDecksOfCards\obj\Debug\SortingDecksOfCards.exe
+C:\Users\Максим\Desktop\sorting-decks-of-cards\SortingDecksOfCards\SortingDecksOfCards\obj\Debug\SortingDecksOfCards.pdb
